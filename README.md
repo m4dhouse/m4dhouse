@@ -2,4 +2,4 @@
 
 ![Allen's Github Stats](https://github-readme-stats.vercel.app/api?username=m4dhouse&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=m4dhouse&theme=prussian&background=374159&dates=C7D1E3&currStreakNum=0074FF&sideLabels=84ADC4)](https://streak-stats.demolab.com)
+[![GitHub Streak](https://streak-stats.demolab.com?user=m4dhouse&theme=dark)](https://git.io/streak-stats)
