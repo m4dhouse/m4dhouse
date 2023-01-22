@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4dhouse&show_icons=true&theme=transparent)
+![Allen's Github Stats](https://github-readme-stats.vercel.app/api?username=m4dhouse&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=m4dhouse&theme=prussian&background=374159&dates=C7D1E3&currStreakNum=0074FF&sideLabels=84ADC4)
