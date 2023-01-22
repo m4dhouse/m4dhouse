@@ -3,8 +3,6 @@
 <!--
 **m4dhouse/m4dhouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Metrics](https://metrics.lecoq.io/m4dhouse?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FRome)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4dhouse&show_icons=true&theme=transparent)
+
+![Metrics](https://metrics.lecoq.io/m4dhouse?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FRome)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=m4dhouse&theme=prussian&background=374159&dates=C7D1E3&currStreakNum=0074FF&sideLabels=84ADC4)
